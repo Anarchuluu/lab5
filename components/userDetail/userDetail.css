@@ -1,0 +1,28 @@
+.userDetail {
+  background-color: #fafafa98;
+  color: #3f51b5;
+}
+.description {
+  flex: 2;
+}
+.description ul li {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  font-size: 15px;
+}
+.ner {
+  flex: 1;
+}
+h4 {
+  padding: 0;
+  margin: 0;
+}
+.btn {
+  width: 100px;
+  height: 50px;
+}
+Link {
+  color: #ffffff;
+  text-decoration: none;
+}
